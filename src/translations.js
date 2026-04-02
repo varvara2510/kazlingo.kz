@@ -1,0 +1,57 @@
+export const translations = {
+    en: {
+      home: "Home", problems: "Problems", participate: "Participate", kziol: "Hall of Fame",
+      about: "About Us",
+      welcome: "Welcome to the official website of Kazakh Linguistics Olympiad!",
+      whatIsLing: "What is linguistics?",
+      lingDef: "Linguistics [lɪŋ'gwɪs.tɪks] is a scientific discipline committed to the study of human language...",
+      lingQ1: "How are languages similar and how do they differ?",
+      lingQ2: "What is the relationship between language and thinking?",
+      lingQ3: "How did language evolve in humans? Do animals have a language?",
+      lingEnd: "Since linguistics is not offered as a school subject, students can explore it through so-called linguistics olympiads.",
+      olyIntro: "A linguistics olympiad is a competition where participants solve puzzles based on real languages from around the world. You are not expected to know these languages in advance — instead, you are given data and must figure out the patterns on your own.",
+      olyFormat: "Each problem is like a small investigation: you analyze examples, identify rules, and apply logic. It is not about memorization, but about reasoning, creativity, and curiosity.",
+      ctaStart: "Want to try solving problems yourself or learn how to participate in the Kazakh Linguistics Olympiad?",
+      ctaParticipate: "How to participate →",
+      ctaOr: "or",
+      ctaFaq: "read the FAQ →",
+
+      whatAreOly: "What are linguistics olympiads?",
+      q1: "Who are we?",
+      a1: "We are a small team of students, former Olympiad participants, who have decided to promote linguistics among schoolchildren on a voluntary basis.",
+      q2: "What is a linguistics competition? Is it an English competition?",
+      a2: "Linguistics is the science of how human language works as a whole. At the linguistics Olympiad, participants are given logic problems based on different languages, and their goal is to figure out for themselves how a particular language works. "
+    },
+    ru: {
+      home: "Главная", problems: "Задачи", participate: "Участвовать", kziol: "Результаты", about: "О нас",
+      welcome: "Добро пожаловать на официальный сайт Казахской олимпиады по лингвистике!",
+      whatIsLing: "Что такое лингвистика?",
+      lingDef: "Лингвистика [lɪŋ'gwɪs.tɪks] — это научная дисциплина, изучающая человеческий язык...",
+      lingQ1: "Чем языки похожи и чем они отличаются?",
+      lingQ2: "Какова связь между языком и мышлением?",
+      lingQ3: "Как развивался язык у людей? Есть ли язык у животных?",
+      lingEnd: "Поскольку лингвистика не предлагается как школьный предмет, учащиеся могут изучать ее через олимпиады.",
+      whatAreOly: "Что такое лингвистические олимпиады?",
+      q1: "",
+      a1: "",
+      q2: "",
+      a2: ""
+    },
+    kz: {
+      home: "Главная", problems: "Есептер", participate: "Қатысу", 
+      kziol: "Нәтижелер", about: "О нас",
+      iol: "Қазақстан IOL-да", prep: "Дайындық", about: "Біз туралы",
+      welcome: "Қазақ лингвистикалық олимпиадасының ресми сайтына қош келдіңіз!",
+      whatIsLing: "Лингвистика дегеніміз не?",
+      lingDef: "Лингвистика [lɪŋ'gwɪs.tɪks] — адам тілін зерттейтін ғылыми пән...",
+      lingQ1: "Тілдер қалай ұқсайды және олардың айырмашылығы неде?",
+      lingQ2: "Тіл мен ойлаудың арасында қандай байланыс бар?",
+      lingQ3: "Адамдарда тіл қалай дамыды? Жануарларда тіл бар ма?",
+      lingEnd: "Лингвистика мектепте оқытылмайтындықтан, оқушылар оны олимпиадалар арқылы зерттей алады.",
+      whatAreOly: "Лингвистикалық олимпиадалар дегеніміз не?",
+      q1: "Біз кімбіз?",
+      a1: "Біз – мектеп оқушыларының арасында лингвистиканы ерікті түрде насихаттауға тырысқан бұрынғы олимпиадаларға қатысушылардың, қазіргі студенттердің шағын тобымыз.",
+      q2: "Лингвистикадан олимпиада деген не? Бұл ағылшын тілінен олимпиада ма?",
+      a2: "Лингвистика - бұл жалпы адам тілінің қалай жұмыс істейтіні туралы ғылым. Лингвистикадан олимпиадада қатысушыларға әртүрлі тілдер туралы ақпаратқа негізделген логикалық есептер ұсынылады және қатысушылардың мақсаты - белгілі бір тілдің қалай жұмыс істейтінін өз бетінше түсіну."
+    }
+  };
